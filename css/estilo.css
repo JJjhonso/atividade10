@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.inter-Inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+  }
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #000;
+    font-family: "Inter";
+}
+
+.header {
+    width: 100%;
+    height: 10pc;
+    align-items: center;
+    justify-content: center;
+}
+
+.header img {
+    margin: 0 auto;
+    display: flex;
+    margin-top: 50px;
+}
+
+.content {
+    width: 100%;
+    height: 680px;
+    display: flex;
+}
+
+.dev-expert-container {
+    color: #fff;
+    font-size: 28px;
+    width: 50pc;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.dev-expert-container img {
+    margin: 10px;
+}
+
+.buttons-dev-expert {
+    width: 43pc;
+    height: 10pc;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.buttons-dev-expert .button1 {
+    width: 512px;
+    height: 56px;
+    margin: 0 auto;
+    background-color: #009748;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    font-family: "Inter";
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.buttons-dev-expert .button2 {
+    width: 512px;
+    height: 56px;
+    margin: 0 auto;
+    background-color: transparent;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    color: #fff;
+    font-family: "Inter";
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.description-button2 {
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.img-background {
+    width: 57pc;
+    height: 20pc;
+}
+
+.content2 {
+    height: 900px;
+    background-color: #222634;
+    width: 100%;
+    position: relative;
+}
+
+.see-in-your-way-container {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 80pc;
+    height: 30pc;
+    display: flex;
+}
+
+.text-description {
+    width: 658px;
+    height: 114px;
+    color: #fff;
+    margin-top: 190px;
+}
+
+.text-description h1 {
+    font-size: 48px;
+}
+
+.text-description p {
+    font-size: 16px;
+    font-weight: 200;
+}
+
+.content3 {
+    height: 900px;
+    width: 100%;
+    position: relative;
+}
+
+.container-content3 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 80pc;
+    display: flex;
+    text-align: center;
+    gap: 10pc;
+}
+
+.text-button-description p {
+    color: #fff;
+    text-align: center;
+    width: 573px;
+    font-family: "Inter";
+    font-weight: 200;
+    margin: 0 auto;
+    margin-bottom: 58px;
+}
+
+.text-button-description .button {
+    width: 612px;
+    height: 56px;
+    margin: 0 auto;
+    background-color: #009748;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    font-family: "Inter";
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.content4 {
+    height: 900px;
+    background-color: #222634;
+    width: 100%;
+    position: relative;
+}
+
+.container-content4 {
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 80pc;
+    height: 40pc;
+    display: flex;
+    gap: 10px;
+}
+
+.img-notebook {
+    margin-top: 10pc;
+    width: 573px;
+    height: 343px;
+}
+
+.text-description-notebook {
+    font-size: 16px;
+    font-weight: 200;
+    width: 658px;
+    height: 114px;
+    color: #fff;
+    margin-top: 290px;
+}
+
+.text-description-notebook h1 {
+    font-size: 48px;
+}
+
+.content5 {
+    height: 900px;
+    width: 100%;
+    position: relative;
+}
+
+.container-content5 {
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 80pc;
+    height: 40pc;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 250px;
+    gap: 10px;
+}
+
+.container-cards {
+    width: 80pc;
+    height: 30pc;
+    display: flex;
+    border: 1px solid #fff;
+}
+
+
+
+
